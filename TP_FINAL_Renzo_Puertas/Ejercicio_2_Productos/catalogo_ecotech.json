@@ -1,0 +1,20 @@
+[
+    {
+        "tipo": "PanelSolar",
+        "id_producto": "ECO-SOL-350",
+        "nombre": "Panel Solar EcoPremium",
+        "precio": 125000.0,
+        "stock": 15,
+        "potencia_w": 350,
+        "eficiencia_porcentaje": "21.5%"
+    },
+    {
+        "tipo": "PanelSolar",
+        "id_producto": "ECO-SOL-250",
+        "nombre": "Panel Solar EcoStandard",
+        "precio": 85000.0,
+        "stock": 40,
+        "potencia_w": 250,
+        "eficiencia_porcentaje": "18.2%"
+    }
+]
